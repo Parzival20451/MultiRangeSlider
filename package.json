@@ -1,0 +1,14 @@
+{
+  "name": "com.parzival20451.multirangeslider",
+  "displayName": "MultiRangeSlider",
+  "version": "1.0.0",
+  "description": "This package allows you to change values for min-max and max-min ranges in inspector with multirange slider\n\nMain benefits for you:\n▪ Easily change values for range properties with slider\n▪ Work with multiple selected objects\n▪ Works with min-max and max-min ranges",
+  "changelogUrl": "https://github.com/Parzival20451/MultiRangeSlider/blob/main/CHANGELOG.md",
+  "documentationUrl": "https://github.com/Parzival20451/MultiRangeSlider/blob/main/README.md",
+  "licensesUrl": "https://github.com/Parzival20451/MultiRangeSlider/blob/main/LICENSE.md",
+  "repository": {
+    "url": "https://Parzival20451@github.com/Parzival20451/Diploma.git",
+    "type": "git",
+    "revision": "042d428c84a4bd25cc225b18941bc2456a1c50de"
+  }
+}
